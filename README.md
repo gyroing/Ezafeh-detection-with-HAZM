@@ -45,5 +45,5 @@ You needs python-dev c++ and also Python's hazm module. You can install it using
     pip install hazm
     run ./make
 ## Run
-run ./ezafeh for test
+    run ./ezafeh for test
 
