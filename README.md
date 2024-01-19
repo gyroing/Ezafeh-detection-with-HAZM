@@ -1,4 +1,4 @@
-# cpp-hazm
+# cpp-hazm with kasreh ezafeh example
 C++ wrappers of the Python's [Hazm](https://github.com/sobhe/hazm) module
 
 ## Usage
