@@ -1,6 +1,6 @@
 # cpp-hazm with kasreh ezafeh example
 C++ wrappers of the Python's [Hazm](https://github.com/sobhe/hazm) module
-
+Hazm c++ wrapper from [tihu](https://github.com/tihu-nlp/tihu) Contributor(s): Mostafa Sedaghat Joo (mostafa.sedaghat@gmail.com)
 ## Usage
 
 ```c++
